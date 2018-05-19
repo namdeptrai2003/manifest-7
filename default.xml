@@ -629,5 +629,8 @@
 
   <!-- Add all tracked AOSP repos -->
   <include name="pixel.xml" />
+  
+  <!-- Add  GP devices repos -->
+  <include name="gp.xml" />
 
 </manifest>
