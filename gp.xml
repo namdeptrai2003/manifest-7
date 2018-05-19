@@ -11,11 +11,11 @@
   <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" remote="github" revision="lineage-15.1-caf-8916" />
 
   <!-- Grand Prime Fortuna Device Trees -->
- <project path="device/samsung/fortunave3g" name="namdeptrai2003/android_device_samsung_fortunave3g" remote="github" revision="lineage-15.1" />
- <project path="device/samsung/fortuna3g" name="namdeptrai2003/android_device_samsung_fortuna3g" remote="github" revision="lineage-15.1" />
- <project path="device/samsung/gprimelte-common" name="namdeptrai2003/android_device_samsung_gprimelte-common" remote="github" revision="lineage-15.1" />
+ <project path="device/samsung/fortunave3g" name="grandprimeOreo/android_device_samsung_fortunave3g" remote="github" revision="lineage-15.1" />
+ <project path="device/samsung/fortuna3g" name="grandprimeOreo/android_device_samsung_fortuna3g" remote="github" revision="lineage-15.1" />
+ <project path="device/samsung/gprimelte-common" name="grandprimeOreo/android_device_samsung_gprimelte-common" remote="github" revision="lineage-15.1" />
  <!-- Samsung MSM8916 Common Repos -->
- <project path="device/samsung/msm8916-common" name="namdeptrai2003/android_device_samsung_msm8916-common" remote="github" revision="lineage-15.1" />
+ <project path="device/samsung/msm8916-common" name="grandprimeOreo/android_device_samsung_msm8916-common" remote="github" revision="lineage-15.1" />
  <project path="device/samsung/qcom-common" name="namdeptrai2003/android_device_samsung_qcom-common" remote="github" revision="lineage-15.1" />
  
  <!-- arm-eabi-7.2 -->
